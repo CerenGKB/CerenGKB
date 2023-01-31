@@ -3,7 +3,12 @@
 
                    🌱 I am currently learning three.js and react while trying to get better at my javascript and css skills
 
+
+ <div align="center" >
+
  ![jss](https://user-images.githubusercontent.com/47979970/215867001-ef06d3d9-352c-44e9-a8fa-04eb8e6ed479.png)
+
+</div>
 
 
 
