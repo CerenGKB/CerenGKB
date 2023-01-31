@@ -1,5 +1,5 @@
 
-                      👋 I am Ceren, a junior Front end developer who loves creating and building cool things on web  
+                      👋 I am Ceren, a junior Front end developer who loves creating and building cool things for web  
 
                    🌱 I am currently learning three.js and react while trying to get better at my javascript and css skills
 
