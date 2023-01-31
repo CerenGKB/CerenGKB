@@ -1,4 +1,7 @@
-### Hi there 👋
+
+ 👋 I am Ceren, a junior Front end developer who loves creating and building cool things on web  
+
+ 🌱 I am currently learning three.js and react while trying to get better at my javascript and css skills
 
 <!--
 **CerenGKB/CerenGKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +9,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
