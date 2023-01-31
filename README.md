@@ -1,7 +1,11 @@
 
- 👋 I am Ceren, a junior Front end developer who loves creating and building cool things on web  
+                      👋 I am Ceren, a junior Front end developer who loves creating and building cool things on web  
 
- 🌱 I am currently learning three.js and react while trying to get better at my javascript and css skills
+                   🌱 I am currently learning three.js and react while trying to get better at my javascript and css skills
+
+ ![jss](https://user-images.githubusercontent.com/47979970/215867001-ef06d3d9-352c-44e9-a8fa-04eb8e6ed479.png)
+
+
 
 <!--
 **CerenGKB/CerenGKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
