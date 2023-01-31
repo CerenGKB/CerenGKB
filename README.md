@@ -5,7 +5,7 @@
   
 🌱I am currently learning three.js and react while trying to get better at my javascript and css skills
                    
-⚡For my courses and progress in my notion page https://candy-mayflower-db7.notion.site/Learning-c48df662bc914fd9beadf40b4f4433d8
+⚡For my courses and progress in my [notion page](https://candy-mayflower-db7.notion.site/Learning-c48df662bc914fd9beadf40b4f4433d8)
                     
  </div>
  <div align="center" >
