@@ -1,9 +1,13 @@
-
-                      👋 I am Ceren, a junior Front end developer who loves creating and building cool things for web  
-
-                   🌱 I am currently learning three.js and react while trying to get better at my javascript and css skills
-
-
+ <div align="center" >
+  
+👋 I am Ceren, a junior Front end developer who loves creating and building cool things for web  
+  
+  
+🌱I am currently learning three.js and react while trying to get better at my javascript and css skills
+                   
+⚡For my courses and progress in my notion page https://candy-mayflower-db7.notion.site/Learning-c48df662bc914fd9beadf40b4f4433d8
+                    
+ </div>
  <div align="center" >
 
  ![jss](https://user-images.githubusercontent.com/47979970/215867001-ef06d3d9-352c-44e9-a8fa-04eb8e6ed479.png)
