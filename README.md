@@ -1,4 +1,4 @@
-<img align="right" width="400" height="300" src="https://github.com/CerenGKB/CerenGKB/assets/47979970/f7843f77-53cf-46d6-a58c-d55c91b7961a">
+<img align="right" width="390" height="250" src="https://github.com/CerenGKB/CerenGKB/assets/47979970/f7843f77-53cf-46d6-a58c-d55c91b7961a">
 
 #### 👋 I am Ceren, a junior Front end developer who loves creating and building cool things for web
 
