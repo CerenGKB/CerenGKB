@@ -1,22 +1,22 @@
- <div align="center" >
-  
-👋 I am Ceren, a junior Front end developer who loves creating and building cool things for web  
-  
-  
-🌱I am currently focusing on react and deepening my javascript skills while learning three.js in my extra time 
-                   
+<img align="right" width="400" height="300" src="https://github.com/CerenGKB/CerenGKB/assets/47979970/f7843f77-53cf-46d6-a58c-d55c91b7961a">
 
-                    
- </div>
- <div align="center" >
+#### 👋 I am Ceren, a junior Front end developer who loves creating and building cool things for web
 
- ![jss](https://user-images.githubusercontent.com/47979970/215867001-ef06d3d9-352c-44e9-a8fa-04eb8e6ed479.png)
+🌱I am currently focusing on react and deepening my javascript skills while learning three.js in my extra time
 
-</div>
+⚡ My social media accounts https://bento.me/cerengkb
+
+<br clear="both"/>
 
 
 
-<!--
+
+
+
+
+
+<!--![giphy](https://github.com/CerenGKB/CerenGKB/assets/47979970/5f5537da-d1c7-4f4d-bcca-4ea86381f971)
+  <img src="https://github.com/CerenGKB/CerenGKB/assets/47979970/f7843f77-53cf-46d6-a58c-d55c91b7961a" alt="Your Image" style="float: left; width:30%; margin-right: 1%; margin-bottom: 0.5em;">
 **CerenGKB/CerenGKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -29,4 +29,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🌱I am currently focusing on react and deepening my javascript skills while learning three.js in my extra time 
+                   
+⚡ My social media accounts https://bento.me/cerengkb
 -->
