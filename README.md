@@ -6,8 +6,6 @@
 
 ⚡ My social media accounts https://bento.me/cerengkb
 
-💬 My CV - https://flowcv.com/resume/lcd36ljt71
-
 📫 Contact: cerengokbulut97@gmail.com
 
 <br clear="both"/>
