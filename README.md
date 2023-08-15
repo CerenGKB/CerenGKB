@@ -2,9 +2,11 @@
 
 #### 👋 I am Ceren, a junior Front end developer who loves creating and building cool things for web
 
-🌱I am currently focusing on react and deepening my javascript skills while learning three.js in my extra time
+🌱 I am currently focusing on react and deepening my javascript skills while learning three.js in my extra time 
 
 ⚡ My social media accounts https://bento.me/cerengkb
+
+✨ I would love to collaborate on a project together. 
 
 📫 Contact: cerengokbulut97@gmail.com
 
