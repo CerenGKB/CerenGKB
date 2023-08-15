@@ -8,7 +8,7 @@
 
 ✨ I would love to collaborate on a project together. 
 
-📫 Contact: cerengokbulut97@gmail.com
+📫 Contact for CV or more : cerengokbulut97@gmail.com
 
 <br clear="both"/>
 
