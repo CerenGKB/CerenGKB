@@ -6,7 +6,7 @@
 
 ⚡ My social media accounts https://bento.me/cerengkb
 
-✨ I would love to collaborate on a project together. 
+✨ If you are working or want to start on a cool project and looking for collaborators , I would love to be a part of it, both to contribute, experience and to learn! You can contact me via e-mail
 
 📫 Contact for CV or more : cerengokbulut97@gmail.com
 
